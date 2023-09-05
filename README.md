@@ -1,6 +1,6 @@
 # Chatbot
 
-1) https://github.com/Jhj9/Conversation-Response-Generation-Demo.git clone<br>
+1) git clone https://github.com/Jhj9/Conversation-Response-Generation-Demo.git<br>
 
 2) pip install -r requirements.txt<br>
 
