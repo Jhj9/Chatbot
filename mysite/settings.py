@@ -42,7 +42,7 @@ SECRET_KEY = get_secret("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["dubai.hlilab.kr",'localhost','0.0.0.0','brlchat.hlilab.kr']
+ALLOWED_HOSTS = []
 
 
 # Application definition
