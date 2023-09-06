@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot Frontend
 
 1) git clone https://github.com/Jhj9/Chatbot.git<br>
 
