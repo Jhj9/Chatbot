@@ -1,6 +1,6 @@
 # Chatbot
 
-1) git clone https://github.com/Jhj9/Conversation-Response-Generation-Demo.git<br>
+1) git clone https://github.com/Jhj9/Chatbot.git<br>
 
 2) mysite/secrets.json 생성 후 SECRET_KEY 입력 <br>
   Ex) {"SECRET_KEY": "django-insecure-dml=장고시크릿키50자"} <br>
