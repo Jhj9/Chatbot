@@ -10,10 +10,11 @@
 
 4) http://127.0.0.1:8000/ 웹페이지 실행
 
-
--<br>
+<br>
+<br>
 모델 연결 코드 작성 위치<br>
-main/apps.py<br>
-main/views.py<br>
+- main/apps.py<br>
+- main/views.py<br>
  
-html 파일 위치: main/templates/main<br>
+html 파일 위치<br>
+- main/templates/main<br>
