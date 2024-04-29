@@ -12,7 +12,7 @@
 
 <br>
 <br>
-모델 연결 코드 작성 위치<br>
+프론트엔드-백엔드 모델 연결 코드 작성 위치<br>
 - main/apps.py<br>
 - main/views.py<br>
 <br>
