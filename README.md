@@ -15,6 +15,7 @@
 모델 연결 코드 작성 위치<br>
 - main/apps.py<br>
 - main/views.py<br>
- 
+<br>
 html 파일 위치<br>
 - main/templates/main<br>
+<br>
